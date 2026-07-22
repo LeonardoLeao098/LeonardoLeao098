@@ -1,4 +1,4 @@
-# Olá! Eu sou o Leonardo <img src="assets/avatar.png" width="30"/> <img src="assets/dark.png" width="30"/>
+# Olá! Eu sou o Leonardo! <img src="assets/avatar.png" width="30"/> <img src="assets/dark.png" width="30"/> <img src="assets/lightsaber.png" width="30"/>
 
 💻 Estudante de Ciência da Computação (5º semestre)
 
